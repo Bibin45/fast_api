@@ -1,0 +1,138 @@
+2024-10-17 17:18:18,503 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:18:18,505 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:18:18,505 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:18:18,509 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:18:19,416 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:18:19,420 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:19:23,898 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:19:23,903 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:22:17,250 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:22:17,253 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:26:38,575 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:26:38,578 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:28:03,453 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:28:03,456 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:28:21,467 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:28:21,470 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:29:01,611 - root - ERROR - 1 validation error for TodoModel
+id
+  Input should be a valid integer [type=int_type, input_value=ObjectId('6710f9c133d3589862d22c68'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_type
+2024-10-17 17:29:01,615 - root - ERROR - 1 validation error for TodoModel
+id
+  Input should be a valid integer [type=int_type, input_value=ObjectId('6710f9c133d3589862d22c68'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/int_type
+2024-10-17 17:29:15,003 - root - ERROR - 1 validation error for TodoModel
+id
+  Input should be a valid string [type=string_type, input_value=ObjectId('6710f9c133d3589862d22c68'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-17 17:29:15,006 - root - ERROR - 1 validation error for TodoModel
+id
+  Input should be a valid string [type=string_type, input_value=ObjectId('6710f9c133d3589862d22c68'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-17 17:29:43,954 - root - ERROR - 1 validation error for TodoModel
+id
+  Input should be a valid string [type=string_type, input_value=ObjectId('6710f9c133d3589862d22c68'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-17 17:29:43,957 - root - ERROR - 1 validation error for TodoModel
+id
+  Input should be a valid string [type=string_type, input_value=ObjectId('6710f9c133d3589862d22c68'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-17 17:33:33,296 - root - ERROR - 1 validation error for TodoModel
+id
+  Input should be a valid string [type=string_type, input_value=ObjectId('6710f9c133d3589862d22c68'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-17 17:33:33,300 - root - ERROR - 1 validation error for TodoModel
+id
+  Input should be a valid string [type=string_type, input_value=ObjectId('6710f9c133d3589862d22c68'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-17 17:34:46,793 - root - ERROR - 1 validation error for TodoModel
+id
+  Input should be a valid string [type=string_type, input_value=ObjectId('6710f9c133d3589862d22c68'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-17 17:34:46,796 - root - ERROR - 1 validation error for TodoModel
+id
+  Input should be a valid string [type=string_type, input_value=ObjectId('6710f9c133d3589862d22c68'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-17 17:35:41,919 - root - ERROR - 1 validation error for TodoModel
+id
+  Input should be a valid string [type=string_type, input_value=ObjectId('6710f9c133d3589862d22c68'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-17 17:35:41,922 - root - ERROR - 1 validation error for TodoModel
+id
+  Input should be a valid string [type=string_type, input_value=ObjectId('6710f9c133d3589862d22c68'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-17 17:42:06,672 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 17:42:06,675 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-17 18:00:20,848 - root - ERROR - Object of type TodoModel is not JSON serializable
+2024-10-17 18:00:20,854 - root - ERROR - Object of type TodoModel is not JSON serializable
+2024-10-17 18:00:41,664 - root - ERROR - Object of type ObjectId is not JSON serializable
+2024-10-17 18:00:41,667 - root - ERROR - Object of type ObjectId is not JSON serializable
+2024-10-17 18:06:56,803 - root - ERROR - AgnosticCollection.aggregate() missing 1 required positional argument: 'pipeline'
+2024-10-17 18:06:56,806 - root - ERROR - AgnosticCollection.aggregate() missing 1 required positional argument: 'pipeline'
+2024-10-18 08:31:27,420 - root - ERROR - AgnosticCollection.aggregate() missing 1 required positional argument: 'pipeline'
+2024-10-18 08:31:27,427 - root - ERROR - AgnosticCollection.aggregate() missing 1 required positional argument: 'pipeline'
+2024-10-18 08:45:27,264 - root - ERROR - 1 validation error for ResponseModal[List[TodoModel]]
+data.1
+  Error iterating over object, error: RuntimeError: await wasn't used with future [type=iteration_error, input_value=<Future pending>, input_type=Future]
+    For further information visit https://errors.pydantic.dev/2.9/v/iteration_error
+2024-10-18 08:45:27,269 - root - ERROR - 1 validation error for ResponseModal[List[TodoModel]]
+data.1
+  Error iterating over object, error: RuntimeError: await wasn't used with future [type=iteration_error, input_value=<Future pending>, input_type=Future]
+    For further information visit https://errors.pydantic.dev/2.9/v/iteration_error
+2024-10-18 14:01:26,032 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 14:01:26,038 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 14:02:03,648 - root - ERROR - 2 validation errors for ResponseModal[List[TodoModel]]
+data.0._id
+  Input should be an instance of ObjectId [type=is_instance_of, input_value='671102967cc34e6d6a320acc', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+data.1._id
+  Input should be an instance of ObjectId [type=is_instance_of, input_value='67121cd84e5eb39ea9a59040', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+2024-10-18 14:02:03,653 - root - ERROR - 2 validation errors for ResponseModal[List[TodoModel]]
+data.0._id
+  Input should be an instance of ObjectId [type=is_instance_of, input_value='671102967cc34e6d6a320acc', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+data.1._id
+  Input should be an instance of ObjectId [type=is_instance_of, input_value='67121cd84e5eb39ea9a59040', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+2024-10-18 14:06:09,192 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 14:06:09,197 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 14:30:13,683 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 14:30:13,687 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 14:30:37,564 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 14:30:37,570 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 14:31:08,842 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 14:31:08,847 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 14:31:29,062 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 14:31:29,065 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 14:31:47,115 - root - ERROR - 1 validation error for ResponseModal[List[TodoModel]]
+data.1.id
+  Input should be a valid string [type=string_type, input_value=ObjectId('67121cd84e5eb39ea9a5903f'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-18 14:31:47,121 - root - ERROR - 1 validation error for ResponseModal[List[TodoModel]]
+data.1.id
+  Input should be a valid string [type=string_type, input_value=ObjectId('67121cd84e5eb39ea9a5903f'), input_type=ObjectId]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-18 14:53:55,907 - root - ERROR - 2 validation errors for ResponseModal[List[TodoModel]]
+data.0.id
+  Input should be an instance of ObjectId [type=is_instance_of, input_value='671228c4727fe951954e4b0b', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+data.1.id
+  Input should be an instance of ObjectId [type=is_instance_of, input_value='671228c7727fe951954e4b0c', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+2024-10-18 14:53:55,912 - root - ERROR - 2 validation errors for ResponseModal[List[TodoModel]]
+data.0.id
+  Input should be an instance of ObjectId [type=is_instance_of, input_value='671228c4727fe951954e4b0b', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+data.1.id
+  Input should be an instance of ObjectId [type=is_instance_of, input_value='671228c7727fe951954e4b0c', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/is_instance_of
+2024-10-18 15:01:23,484 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 15:01:23,488 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 15:01:36,227 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 15:01:36,233 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 15:04:45,265 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 15:04:45,269 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 15:08:29,174 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
+2024-10-18 15:08:29,179 - root - ERROR - PyObjectId.validate() takes 2 positional arguments but 3 were given
