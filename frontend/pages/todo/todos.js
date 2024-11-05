@@ -42,7 +42,7 @@ export default function Todos() {
         {todos?.map((todo) => (
           <li key={todo?._id}>
             <div className='d-flex align-items-center justify-content-center'>
-            <Link href={`/${todo?._id}`}>
+            <Link href={`/todo/${todo?._id}`}>
               <p>{todo?.description}</p>
             </Link>
             <button onClick={() => handleDeleteTodo(todo?._id)}>Delete</button>

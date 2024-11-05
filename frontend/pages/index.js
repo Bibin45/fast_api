@@ -19,7 +19,7 @@ export default function Home() {
     >
        <div>
       <h1>Welcome to the To-Do App</h1>
-      <Link href="/todos">Go to To-Do List</Link>
+      <Link href="/todo/todos">Go to To-Do List</Link>
     </div>
     </div>
   );
